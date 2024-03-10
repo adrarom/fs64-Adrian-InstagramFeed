@@ -1,0 +1,13 @@
+.nav-tabs{
+    list-style: none;
+    border-radius: 0px;
+    border:0px;
+}
+
+.w-post{
+    width:600px;
+}
+.px-nav{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
